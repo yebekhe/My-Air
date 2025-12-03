@@ -2,12 +2,6 @@
   
 # 🌬️ هوای‌ما | Air Quality Monitoring System
 
-<div align="center">
-
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Language](https://img.shields.io/badge/language-Persian-orange.svg)
-
 **سامانه پایش هوشمند آلودگی هوا برای شهرهای ایران**
 
 *Smart Air Pollution Monitoring System for Iranian Cities*
